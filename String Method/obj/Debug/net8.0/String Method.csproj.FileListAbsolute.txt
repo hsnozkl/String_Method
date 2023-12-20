@@ -1,0 +1,14 @@
+C:\Users\hasan\OneDrive\Masaüstü\Patika\String Method\bin\Debug\net8.0\String Method.exe
+C:\Users\hasan\OneDrive\Masaüstü\Patika\String Method\bin\Debug\net8.0\String Method.deps.json
+C:\Users\hasan\OneDrive\Masaüstü\Patika\String Method\bin\Debug\net8.0\String Method.runtimeconfig.json
+C:\Users\hasan\OneDrive\Masaüstü\Patika\String Method\bin\Debug\net8.0\String Method.dll
+C:\Users\hasan\OneDrive\Masaüstü\Patika\String Method\bin\Debug\net8.0\String Method.pdb
+C:\Users\hasan\OneDrive\Masaüstü\Patika\String Method\obj\Debug\net8.0\String Method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasan\OneDrive\Masaüstü\Patika\String Method\obj\Debug\net8.0\String Method.AssemblyInfoInputs.cache
+C:\Users\hasan\OneDrive\Masaüstü\Patika\String Method\obj\Debug\net8.0\String Method.AssemblyInfo.cs
+C:\Users\hasan\OneDrive\Masaüstü\Patika\String Method\obj\Debug\net8.0\String Method.csproj.CoreCompileInputs.cache
+C:\Users\hasan\OneDrive\Masaüstü\Patika\String Method\obj\Debug\net8.0\String Method.dll
+C:\Users\hasan\OneDrive\Masaüstü\Patika\String Method\obj\Debug\net8.0\refint\String Method.dll
+C:\Users\hasan\OneDrive\Masaüstü\Patika\String Method\obj\Debug\net8.0\String Method.pdb
+C:\Users\hasan\OneDrive\Masaüstü\Patika\String Method\obj\Debug\net8.0\String Method.genruntimeconfig.cache
+C:\Users\hasan\OneDrive\Masaüstü\Patika\String Method\obj\Debug\net8.0\ref\String Method.dll
